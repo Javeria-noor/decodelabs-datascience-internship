@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 #   TASK 1: Data Collection & Dataset Understanding
-#   Decodelabs Data Science Internship
+#   Decodelabs Data Science  Internship
 #   Dataset: Titanic (via Seaborn)
 
 
